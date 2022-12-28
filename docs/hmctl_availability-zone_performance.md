@@ -1,16 +1,17 @@
-## hmctl availability-zone query
+## hmctl availability-zone performance
 
-Queries a specific Availability Zone by its ID
+Gets a specific AvailabilityZone Performance Metrics.
 
 ```
-hmctl availability-zone query [flags]
+hmctl availability-zone performance [flags]
 ```
 
 ### Options
 
 ```
-  -h, --help        help for query
-  -i, --id string   The id of the Availability Zone. (Required)
+  -h, --help            help for performance
+  -n, --name string     The name of the Availability Zone. (Required)
+  -r, --region string   The name of the Region. (Required)
 ```
 
 ### Options inherited from parent commands

@@ -1,16 +1,17 @@
-## hmctl availability-zone query
+## hmctl availability-zone space
 
-Queries a specific Availability Zone by its ID
+Gets a specific Availability Zone Space Metrics.
 
 ```
-hmctl availability-zone query [flags]
+hmctl availability-zone space [flags]
 ```
 
 ### Options
 
 ```
-  -h, --help        help for query
-  -i, --id string   The id of the Availability Zone. (Required)
+  -h, --help            help for space
+  -n, --name string     The name of the Availability Zone. (Required)
+  -r, --region string   The name of the Region. (Required)
 ```
 
 ### Options inherited from parent commands
