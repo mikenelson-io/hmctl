@@ -30,8 +30,8 @@ Binaries are available for amd64 and arm64.
 ### Windows
 Binaries are available for amd64 and arm64.
 
-- Rename the downloaded file to add the `.exe` extension.
-Execute hmctl from your command line.  For added convenience, add the file to your `$PATH`.
+- Uncompress the downloaded .zip file
+Execute hmctl.exe from your command line.  For added convenience, add the file to your `$PATH`.
 
 ## Support
 For support, please go to [support.purestorage.com](https://support.purestorage.com)
