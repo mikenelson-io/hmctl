@@ -1,6 +1,6 @@
 # The Pure Fusion CLI &nbsp;&nbsp;<img src='images/Pure%20Fusion%20icon%20logo.png' width='100' align='center'>
 
-![GitHub version](https://img.shields.io/github/v/release/PureStorage-OpenConnect/hmctl?color=orange)
+![GitHub version](https://img.shields.io/github/v/release/PureStorage-OpenConnect/pfctl?color=orange)  [![pages-build-deployment](https://github.com/PureStorage-OpenConnect/pfctl/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/PureStorage-OpenConnect/pfctl/actions/workflows/pages/pages-build-deployment)
 
 **pfctl** is the name of the command line interface for [Pure Fusion](https://www.purestorage.com/enable/pure-fusion.html). This software is provided as a utility that will only operate within a Pure Fusion environment.
 
