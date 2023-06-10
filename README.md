@@ -2,24 +2,24 @@
 
 ![GitHub version](https://img.shields.io/github/v/release/PureStorage-OpenConnect/hmctl?color=orange)
 
-**hmctl** is the name of the command line interface for [Pure Fusion](https://www.purestorage.com/enable/pure-fusion.html). This software is provided as a utility that will only operate within a Pure Fusion environment.
+**pfctl** is the name of the command line interface for [Pure Fusion](https://www.purestorage.com/enable/pure-fusion.html). This software is provided as a utility that will only operate within a Pure Fusion environment.
 
 ## Documentation
-You can find a description of the [available commands](./docs/hmctl.md) in this repository in the **docs folder**.
+You can find a description of the [available commands](./docs/pfctl.md) in this repository in the **docs folder**.
 More descriptive documentation with examples is being developed.
 
 ## Installation
 
-Download the latest binary file for your architecture from the [Releases](https://github.com/PureStorage-OpenConnect/hmctl/releases)
+Download the latest binary file for your architecture from the [Releases](https://github.com/PureStorage-OpenConnect/pfctl/releases)
 
 ### Linux
 Binaries are available for amd64 and arm64.
 
 - untar the downloaded file
-	`tar zxvf hmctl*.tar.gz`
-- change permissions on the hmctl file
-	`chmod u+x hmctl`
-Execute hmctl from your command line.  For added convenience, add the file to your `$PATH`.
+	`tar zxvf pfctl*.tar.gz`
+- change permissions on the pfctl file
+	`chmod u+x pfctl`
+Execute pfctl from your command line.  For added convenience, add the file to your `$PATH`.
 
 ### MacOS
 Binaries are available for amd64 and arm64.
@@ -31,10 +31,10 @@ Binaries are available for amd64 and arm64.
 Binaries are available for amd64 and arm64.
 
 - Uncompress the downloaded .zip file
-Execute hmctl.exe from your command line.  For added convenience, add the file to your `$PATH`.
+Execute pfctl.exe from your command line.  For added convenience, add the file to your `$PATH`.
 
 ## Shell completions
-Ensure you enable the shell completions that are documented [here](https://github.com/PureStorage-OpenConnect/hmctl/blob/main/docs/hmctl_completion.md). Completions are available for bash, zsh, and PowerShell.
+Ensure you enable the shell completions that are documented [here](https://github.com/PureStorage-OpenConnect/pfctl/blob/main/docs/pfctl_completion.md). Completions are available for bash, zsh, and PowerShell.
 
 ## Support
 For support, please go to [support.purestorage.com](https://support.purestorage.com)
