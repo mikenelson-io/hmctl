@@ -27,7 +27,7 @@ Binaries are available for amd64 and arm64.
 - Uncompress the .tar.gz file by right-clicking the file and select "Open".  Your system will warn you that the file cannot be opened because it is from an _unidentified developer_.  You may ignore this warning.
 - You may have to then go to _System Preferences_ -> _Security & Privacy_ -> _General_ and then click to "Open Anyway".
 
-#### Note: The pfctl command conflicts with the MacOS Packet Filter Firewall Utility that has the same name. Please be aware of this and make sure to execute the Fusion pfctl from the speicifc path that it was installed in.
+#### Note: The pfctl command conflicts with the MacOS Packet Filter Firewall Utility that has the same name. Please be aware of this and make sure to execute the Fusion pfctl from the specific path that it was installed in.
 
 ### Windows
 Binaries are available for amd64 and arm64.
